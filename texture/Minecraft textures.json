@@ -205,7 +205,7 @@
     },
     {
       "name": "kill3 -> explode",
-      "replace_ids": [
+      "replace_ids": [ 
         16530229695
       ],
       "mode": "cdn",
@@ -318,7 +318,7 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sky_side_stars.png"
     },
     {
-      "name": "remove ambience on maps",
+      "name": "K1",
       "replace_ids": [
         17813065011,
         17813065464,
